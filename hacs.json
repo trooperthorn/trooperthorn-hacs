@@ -1,0 +1,6 @@
+{
+  "name": "My Custom Integration",
+  "homeassistant": "2024.1.0",
+  "persistent_directory": "userfiles",
+  "hide_default_branch": true
+}
