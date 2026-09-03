@@ -1,6 +1,5 @@
 {
-  "name": "My Custom Integration",
-  "homeassistant": "2024.1.0",
-  "persistent_directory": "userfiles",
+  "name": "trooperthorn-hacs",
+  "homeassistant": "2026.9.0",
   "hide_default_branch": true
 }
